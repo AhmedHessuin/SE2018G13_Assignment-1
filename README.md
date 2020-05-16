@@ -1,5 +1,6 @@
 # SE2018G13_Assignment-1
-
+# description 
+  * making online site for teachers and students to enroll courses and upload materials 
 ### Our online site: [SISG13](http://www.sisg13.ml/)
 
 ### Team members:
